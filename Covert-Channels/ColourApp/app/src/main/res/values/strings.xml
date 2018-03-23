@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ColourApp</string>
+    <string name="title_activity_changer">Changer</string>
+    <string name="title_activity_red">Red</string>
+    <string name="title_activity_blue">Blue</string>
+</resources>
